@@ -1,6 +1,6 @@
 module.exports = function getZerosCount(number, base) {
 
-	let prime = {};
+	prime = {};
 
  	for (i = 2; i <= base; i++) {
 
